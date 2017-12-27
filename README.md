@@ -1,8 +1,6 @@
-#openwrtgod
+# openwrtgod
 
-##openwrt 编译记录
-
-
+## openwrt 编译记录
 
 ### 20170330
 >   在fstab添加对SDCARD读取的支持,fstab支持热插拔，单靠block不行
